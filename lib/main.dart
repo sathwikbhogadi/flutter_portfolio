@@ -69,7 +69,7 @@ class HomeScreen extends StatelessWidget {
               ),
               const SizedBox(height: 20),
               const Text(
-                'NOHITH SAI SINGAM',
+                'SATHWIK',
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 22,
@@ -146,7 +146,7 @@ class AboutScreen extends StatelessWidget {
                   const Icon(Icons.person, size: 64, color: Color(0xFF4354B4)),
                   const SizedBox(height: 20),
                   const Text(
-                    "Hello! I'm Nohith Sai Singam, a Computer Science & Applied Mathematics student at CR Rao AIMSCS. "
+                    "Hello! I'm Sathwik, a Computer Science & Applied Mathematics student at CR Rao AIMSCS. "
                     "I focus on applying analytical thinking and strong foundational knowledge to solve complex problems and build impactful, real-world systems.",
                     textAlign: TextAlign.center,
                     style: TextStyle(fontSize: 15, height: 1.5, color: Colors.black87),
